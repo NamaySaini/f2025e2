@@ -1,0 +1,244 @@
+    1  whoami
+    2  whoami
+    3  logout
+    4  ssh-keygen -t rsa -b 4096
+    5  ssh-copy-id namay@linux.cs.utexas.edu
+    6  whoami
+    7  whoami
+    8  logout
+    9  git clone https://github.com/cs429-fa2026/cs429-fa2026-ci-lab-namaysaini.git
+   10  git clone https://github.com/cs429-fa2026/cs429-fa2026-ci-lab-namaysaini.git
+   11  git clone https://github.com/cs429-fa2026/cs429-fa2026-ci-lab-namaysaini.git
+   12  git clone https://github.com/cs429-fa2026/cs429-fa2026-ci-lab-namaysaini.git
+   13  git clone https://github.com/cs429-fa2026/cs429-fa2026-ci-lab-namaysaini.git
+   14  ls
+   15  cd cs429-fa2026-ci-lab-namaysaini/
+   16  code .
+   17  ls
+   18  cd cs 
+   19  cd cs429-fa2026-ci-lab-namaysaini/
+   20  ls
+   21  cd cs429-fa2026-ci-lab-namaysaini/
+   22  ls
+   23  code .
+   24  ls
+   25  cd cs429-fa2026-ci-lab-namaysaini/
+   26  code .
+   27  ls
+   28  cd cs429-fa2026-ci-lab-namaysaini/
+   29  make all
+   30  make all
+   31  make all
+   32  make all
+   33  make debug
+   34  make test_week2
+   35  make all
+   36  make test_week2
+   37  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   38  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   39  make test_week2
+   40  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   41  make all
+   42  make all
+   43  make all
+   44  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   45  make all
+   46  make all
+   47  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   48  clear
+   49  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   50  make all
+   51  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   52  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   53  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   54  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   55  make all
+   56  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   57  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   58  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   59  make all
+   60  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   61  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   62  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   63  make all
+   64  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   65  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   66  make all
+   67  make all
+   68  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   69  make all
+   70  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   71  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   72  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   73  make all
+   74  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   75  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   76  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   77  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   78  make all
+   79  make all\
+   80  make all
+   81  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   82  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   83  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   84  make test_week2 2>&1 | grep -E "nop|PASS|FAIL"
+   85  git status
+   86  git add src/ci/command.c src/ci/init.c src/ci/interpreter.c src/ci/parser.c
+   87  git commit -m "Implement week 2: nop, mov, add, sub, cmp, cmp_u, print"
+   88  git push
+   89  make test_week3
+   90  make test_week3 2>&1 | grep -E "PASS|FAIL"
+   91  make test_week3 2>&1 | grep -E "PASS|FAIL"
+   92  make test_week3
+   93  make test_week3
+   94  make test_week3
+   95  make test_week3
+   96  make test_week3
+   97  make test_week3
+   98  make test_week3
+   99  make test_week3
+  100  make test_week3
+  101  make test_week3
+  102  make test_week3
+  103  git status
+  104  git add src/ci/command.c src/ci/interpreter.c src/ci/parser.c
+  105  git commit -m "Implement put, print string mode, fix lsr shift bug, free OP_STR in free_command"
+  106  git push
+  107  git push
+  108  git config --get credential.helper
+  109  git config --global --get credential.helper
+  110  git config --system --get credential.helper
+  111  git config --list --show-origin | grep credential
+  112  env | grep -i askpass
+  113  env | grep -i vscode
+  114  unset GIT_ASKPASS
+  115  unset VSCODE_GIT_ASKPASS_NODE
+  116  unset VSCODE_GIT_ASKPASS_EXTRA_ARGS
+  117  unset VSCODE_GIT_ASKPASS_MAIN
+  118  git push
+  119  git push
+  120  make test_hashtable
+  121  make test_hashtable
+  122  make clean
+  123  make test_hashtable
+  124  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  125  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  126  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  127  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  128  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  129  make test_week2 && make test_week3 && make test_week4 && make test_hashtable
+  130  make test_week4
+  131  make test_week4
+  132  make test_week4
+  133  make test_week4
+  134  git add
+  135  git status
+  136  git add include/ci/interpreter.h include/ci/parser.h include/hashtable/hashtable.h src/ci/init.c src/ci/interpreter.c src/ci/parser.c src/hashtable/hashtable.c
+  137  git commit -m "Add hash table, label parsing, and branch/call/ret interpreter support"
+  138  git push
+  139  git archive -o submission.zip HEAD
+  140  cd ..
+  141  git clone https://github.com/cs429-fa2026/mm-lab-template.git
+  142  cd mm-lab-template/
+  143  make
+  144  make test_week1
+  145  make test_week1
+  146  make debug
+  147  gdb ./runner
+  148  make test_week1
+  149  ./runner -r traces/week1/short1.rep
+  150  gdb ./runner
+  151  make test_week1
+  152  make test_week1
+  153  git add .
+  154  git commit
+  155  git status
+  156  git restore --staged quicklist_check
+  157  git restore quicklist_check
+  158  git status
+  159  make test_week1
+  160  git add .
+  161  git commit "MM Lab week 1"
+  162  git commit -m "Implement Week 1 dynamic memory allocator"
+  163  git push
+  164  git remote set-url origin https://github.com/cs429-fa2026/<your-actual-repo-name>.git
+  165  git push -u origin main
+  166  git remote set-url origin https://github.com/cs429-fa2026/cs429-fa2026-mm-lab-namaysaini.git
+  167  git push -u origin main
+  168  git fetch origin
+  169  git log origin/main --oneline
+  170  git push -u origin main --force
+  171  git log --oneline
+  172  git pull origin main --allow-unrelated-histories
+  173  git status
+  174  git pull origin main --allow-unrelated-histories --no-rebase
+  175  git push
+  176  git checkout --ours Makefile
+  177  git checkout --ours check_heap.c
+  178  git checkout --ours quicklist_check
+  179  git checkout --ours umalloc.c
+  180  git add Makefile check_heap.c quicklist_check umalloc.c
+  181  git commit -m "Merge remote template into local Week 1 work"
+  182  git push
+  183  make clean
+  184  make test_week1
+  185  make test_week1
+  186  git add check_heap.c
+  187  git commit -m "Fix check_bin to detect overlaps across all bins, not just within one"
+  188  git push
+  189  make test_week2
+  190  make test_week2
+  191  make test_week2
+  192  make clean && make test_week2
+  193  git clone https://github.com/NamaySaini/f2025e1.git
+  194  git clone https://github.com/NamaySaini/f2025e1.git
+  195  ls
+  196  cd f2025e1/
+  197  pwd
+  198  bash
+  199  make
+  200  ls
+  201  make clean
+  202  make
+  203  cat Mackfile
+  204  cat Makefile
+  205  make
+  206  make trike
+  207  gdb bin/orderlogs
+  208  bin/orderlogs testcases/all_new
+  209  -f bin/orderlogs testcases/all_new
+  210  ./bin/orderlogs -f testcases/all_new
+  211  gdb bin/orderlogs
+  212  make trike
+  213  gdb bin/orderlogs
+  214  gdb bin/orderlogs
+  215  ./bin/orderlogs -f testcases/all_new
+  216  make raptor
+  217  make trex
+  218  make raptor
+  219  make -i raptor
+  220  gdb bin/orderlogs
+  221  make trike
+  222  ./bin/orderlogs -f testcases/all_old
+  223  gdb bin/orderlogs
+  224  git remote -v
+  225  ls
+  226  cd f2025e2-d-master/
+  227  git remote -v
+  228  ./bin/sb -i testcases/catdel.trace
+  229  make potbelly
+  230  ./bin/sb -i testcases/catdel.trace
+  231  gdb bin/sb
+  232  make cheba
+  233  make mikes
+  234  gdb bin/sb
+  235  make potbelly
+  236  ./bin/sb -i testcases/catdel.trace
+  237  gdb bin/sb
+  238  make potbelly
+  239  ./bin/sb -i testcases/catdel.trace
+  240  ./ref_sb -i testcases/catdel.trace 
+  241  chmod +x ref_sb
+  242  ./ref_sb -i testcases/catdel.trace 
+  243  make cheba
+  244  history > shell_logs.txt
